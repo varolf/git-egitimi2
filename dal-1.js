@@ -1,0 +1,1 @@
+dal1-js yazdım. oldu mu?
